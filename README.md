@@ -8,8 +8,8 @@
 # There are a few things I'd like to accomplish during the event's timeframe-
 
 # --HTML site to show off projects:
-o also have a site of my own to host some projects, particularly any that can run in-browser. I've always found it neat to come acros
-# I'd like to get a simple HTML site up and running. I do use GH, but I think it'd be cool ts someone's (fairly simple) html site with things they've worked on, and I think it'd be cool to have my own.
+
+# I'd like to get a simple HTML site up and running. I do use GH, but I think it'd be cool to also have a site of my own to host some projects, particularly any that can run in-browser. I've always found it neat to come across someone's (fairly simple) html site with things they've worked on, and I think it'd be cool to have my own.
 
 
 
